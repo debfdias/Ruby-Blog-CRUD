@@ -12,7 +12,7 @@ A simple blog to learn more about Ruby on Rails and how to implement a CRUD.
 This project was made using the follow technologies:
 
 * [Ruby](https://www.ruby-lang.org/en/)
-* [Rails](hhttps://rubyonrails.org/)
+* [Rails](https://rubyonrails.org/)
 * [Bulma](https://rubygems.org/gems/bulma-rails/versions/0.0.4.1?locale=pt-BR) 
 
 ## :computer: How to run ##
