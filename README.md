@@ -1,14 +1,8 @@
-</h1>
 
- # 📰💎 Demo Ruby Blog
+<h1 align="center"> 📰 Demo Ruby Blog 💎</h1>
 
 ---
 
-<div align="center">
-   <img src="./.github/screen1.png" width="700px">
-</div>
-
-<br>
 
 ## :dart: About ##
 A simple blog to learn more about Ruby on Rails and how to implement a CRUD.
