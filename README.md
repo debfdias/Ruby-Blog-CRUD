@@ -1,24 +1,46 @@
-# README
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ # 📰💎 Demo Ruby Blog
 
-Things you may want to cover:
+---
 
-* Ruby version
+<div align="center">
+   <img src="./.github/screen1.png" width="700px">
+</div>
 
-* System dependencies
+<br>
 
-* Configuration
+## :dart: About ##
+A simple blog to learn more about Ruby on Rails and how to implement a CRUD.
 
-* Database creation
+## :rocket: Technologies ##
 
-* Database initialization
+This project was made using the follow technologies:
 
-* How to run the test suite
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Rails](hhttps://rubyonrails.org/)
+* [Bulma](https://rubygems.org/gems/bulma-rails/versions/0.0.4.1?locale=pt-BR) 
 
-* Services (job queues, cache servers, search engines, etc.)
+## :computer: How to run ##
+```bash
+# Clone this project
+$ git clone https://github.com/debfdias/Ruby-Blog-CRUD/
 
-* Deployment instructions
+# Access folder 
+$ cd Ruby-Blog-CRUD
 
-* ...
+# Install dependencies
+$ bundle
+
+# Run the project
+$ rails s
+
+# Go to <http://localhost:3000>
+```
+
+## :framed_picture: Screenshots ##
+
+<h1 align="center">
+    <img alt = "Screen1" src = "./.github/screen1.png" width = "700px" />
+    <img alt = "Screen2" src = "./.github/screen2.png" width = "700px" />
+</h1>
